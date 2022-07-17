@@ -14,6 +14,17 @@
 #Оцінка: 25 балів
 #Коміт для тесту
 
-import sys
+#import sys
 # ?????
-print (sys.argv)
+#print (sys.argv)
+
+a = int(input("Введіть число a: "))
+b = int(input("Введите число b: "))
+print(a, "+", b, "=", a + b)
+print(a, "-", b, "=", a - b)
+print(a, "*", b, "=", a * b)
+print(a, "/", b, "=", a / b)
+
+
+
+
